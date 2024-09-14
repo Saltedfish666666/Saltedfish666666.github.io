@@ -10,19 +10,19 @@ optimized_image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
 category: blog
 tags:
-  - welcome
+  - project
   - blog
 author: Yan Lyu
 ---
 
 # GROUP
-  -Members: Siyu Tan, Junxi Jiang, Rouxi Chen
+  -Members: Yan Lyu, Ziqi Zhang, Yitong Wang
  
-  -Name: 3in1
+  -Name: Salted Fish
  
-  -Slogan: Three peas in a pod.
+  -Slogan: Salted Fish come on!
  
-  -It means that the three of us are united, and a team can create three times the value!
+  -It means that no matter who you are, you can achieve results beyond your imagination!
 
 # INTRODUCTION
 On the morning of September 11, the three of us went to the supervisor's office together. We had our first meeting with the supervisor. Mr. Liu Huaqiang, who majored in the field of heat, introduced to us the project he was currently working on, which was about battery thermal management, improving battery performance and keeping the battery in the best working condition. Teacher Liu introduced the relevant content of graduation project to us, shared some of his teaching experience for many years, alleviated our anxiety about thesis and design, and also introduced the topic direction that we can consider, including still, battery radiator and so on. The atmosphere during the chat was very relaxed and we were grateful to have such a responsible and attentive instructor.
