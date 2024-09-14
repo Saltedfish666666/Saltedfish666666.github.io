@@ -19,7 +19,7 @@ author: Yan Lyu
 ### Advisor: Benli Peng
 ### Name and slogan: Salted Fish come on!
 
-# Image
+# Discussion Image
 ![placeholder](https://res.cloudinary.com/dfzoqns6f/image/upload/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240914221829_ydespe.jpg)
  
 
