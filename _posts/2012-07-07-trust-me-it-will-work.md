@@ -4,9 +4,9 @@ layout: post
 title: Welcome to the Salted Fish! 
 subtitle: The first week's offline meeting with the mentor.
 image: >-
-  https://66666.jpg
+  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 optimized_image: >-
-  https://66666.jpg
+  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 category: blog
 tags:
   - project
