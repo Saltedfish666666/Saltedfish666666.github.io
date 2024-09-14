@@ -20,10 +20,8 @@ author: Yan Lyu
 ### Name and slogan: Salted Fish come on!
 
 # Image
-image: >-
-  https://res.cloudinary.com/dfzoqns6f/image/upload/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240914221829_ydespe.jpg
-optimized_image: >-
-  https://res.cloudinary.com/dfzoqns6f/image/upload/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240914221829_ydespe.jpg
+![placeholder](https://res.cloudinary.com/dfzoqns6f/image/upload/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240914221829_ydespe.jpg)
+ 
 
 # Week1 Schedule
 On the morning of September 12th, our team held its first offline meeting with Professor Peng Benli at 9:00 a.m. During the meeting, Professor Peng proposed several ideas and plans. After discussing our personal interests and aligning them with Professor Peng's research field, we finalized the project topic as "Research on an Intelligent Anti-Icing System for Ship Hulls Based on Phase Change Materials and Heat Pipe Technology."
