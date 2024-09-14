@@ -14,15 +14,7 @@ tags:
 author: Yan Lyu
 ---
 
-# Team Introduction
- -Members: Siyu Tan, Junxi Jiang, Rouxi Chen
- 
-  -Name: 3in1
- 
-  -Slogan: Three peas in a pod.
- 
-  -It means that the three of us are united, and a team can create three times the value!
-  
+
 
 # Week1 Schedule
 On the morning of September 12th, our team held its first offline meeting with Professor Peng Benli at 9:00 a.m. During the meeting, Professor Peng proposed several ideas and plans. After discussing our personal interests and aligning them with Professor Peng's research field, we finalized the project topic as "Research on an Intelligent Anti-Icing System for Ship Hulls Based on Phase Change Materials and Heat Pipe Technology."
