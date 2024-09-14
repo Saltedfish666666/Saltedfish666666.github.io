@@ -14,6 +14,8 @@ tags:
 author: Yan Lyu
 ---
 
+# Team Introduction
+### Members: Yan Lyu, Ziqi Zhang, Yitong Wang
 
 
 # Week1 Schedule
