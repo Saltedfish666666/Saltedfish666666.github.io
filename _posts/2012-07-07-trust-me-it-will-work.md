@@ -15,13 +15,13 @@ author: Yan Lyu
 ---
 
 # Team Introduction
-  -Members: Yan Lyu, Ziqi Zhang, Yitong Wang
+ -Members: Siyu Tan, Junxi Jiang, Rouxi Chen
  
-  -Advisor: Benli Peng
+  -Name: 3in1
  
-  -Name: Salted Fish 
+  -Slogan: Three peas in a pod.
  
-  -Slogan: Salted Fish come on!
+  -It means that the three of us are united, and a team can create three times the value!
   
 
 # Week1 Schedule
