@@ -1,5 +1,5 @@
 ---
-date: 2024-09-14 23:48:05
+date: 2024-09-13 23:48:05
 layout: post
 title: Welcome to the Salted Fish! 
 subtitle: The first week's offline meeting with the mentor.
