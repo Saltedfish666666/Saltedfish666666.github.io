@@ -4,9 +4,9 @@ layout: post
 title: Project Pitch Slides
 subtitle: Salted Fish Come On!
 image: >-
-  https://res.cloudinary.com/dfzoqns6f/image/upload/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240914224616_cvotrm.png
+  https://res.cloudinary.com/dn31qcg06/image/upload/v1727681503/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE_2024-09-30_153108_dr2jaf.png
 optimized_image: >-
-  https://res.cloudinary.com/dfzoqns6f/image/upload/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240914224616_cvotrm.png
+  https://res.cloudinary.com/dn31qcg06/image/upload/v1727681503/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE_2024-09-30_153108_dr2jaf.png
 category: blog
 tags:
   - project
@@ -14,10 +14,8 @@ tags:
 author: Yan Lyu
 ---
 
-# Team Introduction
-### Members: Yan Lyu, Ziqi Zhang, Yitong Wang
+### Team Members: Yan Lyu, Ziqi Zhang, Yitong Wang
 ### Advisor: Benli Peng
-### Name and slogan: Salted Fish come on!
 
 # Discussion Image
 ![placeholder](https://res.cloudinary.com/dfzoqns6f/image/upload/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240914221829_ydespe.jpg)
